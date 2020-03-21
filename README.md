@@ -1,0 +1,2 @@
+# CLUSTERING
+kmeans , hierarchical
